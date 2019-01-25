@@ -1,0 +1,5 @@
+python-whois==0.7.1
+pylint==2.2.2
+beautifulsoup4==4.7.1
+html5lib==1.0.1
+requests==2.21.0
