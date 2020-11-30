@@ -72,6 +72,6 @@ def descargar_imagenes(url,ruta=''):
         with open(nom_img, 'wb') as handler:
 	        handler.write(imagen)
 
-    
+
 array_img_src("http://blog.educacionit.com/")
 descargar_imagenes("http://blog.educacionit.com/")
